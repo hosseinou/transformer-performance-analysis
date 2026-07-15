@@ -18,7 +18,7 @@ MATLAB scripts and Simulink models to evaluate the voltage regulation and effici
   * **Zero Regulation (Leading PF):** Achieved at a capacitive load angle of -1.72°.
 
 #### System Block Schematic
-![Simulink Workspace Layout](images/transformer_circuit.png)
+![Simulink Workspace Layout](images/Transformer_cicuit.png)
 
 #### Simulation Output
 ![Voltage Regulation Plot](images/voltage_regulation_curve.png)
@@ -31,7 +31,7 @@ MATLAB scripts and Simulink models to evaluate the voltage regulation and effici
 * **Takeaway:** Proved that peak transformer efficiency (99.79%) occurs at a low load factor of 0.1585 (15.85%), validating the point where copper losses dynamically balance core losses.
 
 #### Hand Derivations & Extrema Proof Sheet
-![Hand Calculations Verification](images/hand_derivations.png)
+![Hand Calculations Verification](images/Handwritten_math.png)
 
 #### Efficiency Distribution Profile
 ![Efficiency Optimization Plot](images/efficiency_curve.png)
